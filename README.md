@@ -7,4 +7,4 @@ I'm currently a Freelance web developer. I also spend a lot of time contributing
 - 💬 Ask me about Gatsby, JavaScript, or the web. 
 - 📫 How to reach me: [@moon_meister](https://twitter.com/moon_meister) on Twitter or my [personal site](https://moonmeister.net).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've walked from Mexico to Canada.
+- 🚶  Fun fact: I've walked from Mexico to Canada.
