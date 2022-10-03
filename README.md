@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Alex
 
-I'm currently a Solutions Architect @wpengine working on various things JAMStack and headless WordPress. I also spend a lot of time contributing to open source. I share what I learn over at https://moonmeister.net/blog.
+I'm currently looking for work!! I also spend a lot of time contributing to open source. I share what I learn over at https://moonmeister.net/blog.
 
 - 🔭 I’m currently working on a lot of things, mostly in the Meta Framework, CMS, and data spaces.
 - 🌱 I’m currently learning more about Gatsby, GraphQL and all things web. 
