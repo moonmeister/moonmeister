@@ -1,6 +1,8 @@
 ### Hi there 👋 - I'm Alex
 
-I'm working as a consultant for folks building on the web as a way to support the Open Source work I do on projects like @Gatsbyjs, @Gatsby_UC, and @WPGraphQL. I sometimes share what I'm learning over at https://moonmeister.net/blog.
+I'm working as a consultant for folks building on the web as a way to support the Open Source work I do on projects like @Gatsbyjs, @Gatsby_UC, and @WPGraphQL. If you're intrested in having me consult on your project please checkout my [GitHub Sponsors page](https://github.com/sponsors/moonmeister).
+
+I sometimes share what I'm learning over at https://moonmeister.net/blog.
 
 - 🔭 I’m currently working on a lot of things, mostly in the Meta Framework, CMS, and data spaces.
 - 🌱 I’m currently learning more about SvelteKit, GraphQL, and new CMSes. 
