@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Alex
 
-I'm working as a consultant for folks building on the web as a way to support the Open Source work I do on projects like @Gatsbyjs, @Gatsby_UC, and @WPGraphQL. If you're intrested in having me consult on your project please checkout my [GitHub Sponsors page](https://github.com/sponsors/moonmeister).
+I'm working as a consultant for folks building on the web as a way to support the open-source work I do on projects like [Gatsby](gatsbyjs.com/), [Gatsby User Collective](https://gatsbyuc.dev), and [WPGraphQL](https://www.wpgraphql.com). If you are intrested in supporting my work or having me consult on your project please checkout my [GitHub Sponsors page](https://github.com/sponsors/moonmeister).
 
 I sometimes share what I'm learning over at https://moonmeister.net/blog.
 
